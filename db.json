@@ -1,0 +1,13 @@
+	{
+  "film": [
+    {
+      "judul": "Beranak Dalam Kubur",
+      "genre": "Comedy Horror",
+      "asal": "Indonesia",
+      "durasi": "2 Jam"
+    }
+  ],
+  "profil": {
+    "nama": "Json-Server"
+  }
+}
